@@ -22,7 +22,6 @@ fileName=""
 import psycopg2
 import xlsxwriter
 import numbers
-import datetime
 
 #########################################################################################
 ##                                                                                     ##
